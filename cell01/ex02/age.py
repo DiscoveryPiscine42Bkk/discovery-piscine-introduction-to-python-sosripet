@@ -2,4 +2,7 @@
 firstname = "Soravis"
 lastname = "Sripetch"
 wholename = firstname+" "+lastname
-print(wholename)
+age = 21
+i = 42
+my_age = age + i
+print(my_age)
